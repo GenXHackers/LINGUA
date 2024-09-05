@@ -24,7 +24,7 @@ The application is capable of recognizing and interpreting a comprehensive libra
 
 ![navigation view 1](https://github.com/user-attachments/assets/247e25a2-e5a6-4736-882a-5a49c5a0063b)
 
-American Sign Language Code testing:-
+American Sign Language Code architecture testing:-
 -
 https://github.com/user-attachments/assets/618fc4ac-aba9-44da-8c69-c3c5e13a91da
 
