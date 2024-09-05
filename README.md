@@ -6,5 +6,7 @@ Indian Sign Language to Text/Speech translation
 -
 To create a solution that translates Indian Sign Language (ISL) into text and speech in real-time, facilitating communication for the deaf and hard-of-hearing community with the hearing world. The application is capable of recognizing and interpreting a comprehensive library of ISL signs and gestures, and then provide accurate text and speech output in multiple Indian languages.
 
-
+American Sign Language Code testing
+-
+https://github.com/user-attachments/assets/618fc4ac-aba9-44da-8c69-c3c5e13a91da
 
