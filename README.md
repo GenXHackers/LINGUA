@@ -44,6 +44,7 @@ Hardware techstack:-
 -
 ![WhatsApp Image 2024-09-05 at 12 54 25_d4890245](https://github.com/user-attachments/assets/d97ce190-6987-416c-9a9c-f0f36cd8273a)
 
+![navigation view 1](https://github.com/user-attachments/assets/247e25a2-e5a6-4736-882a-5a49c5a0063b)
 
 ISL Replica testing (Video) //ML model
 -
@@ -58,13 +59,24 @@ Hardware implementation (physical video)
 //work in progress
 .........//put smart glove video here later
 
-Tinkercad Virtual Simulation could be accessed here, developed as part of the ideathon for prototyping:-
+Tinkercad Virtual Simulation setup could be accessed here, developed as part of the ideathon for prototyping:-
+-
+=>Single flex sensor model for gesture recognition..
+-
+![WhatsApp Image 2024-09-02 at 23 03 22_1cf5d9bc](https://github.com/user-attachments/assets/378b6deb-11a3-48fc-9a95-9d384d783845)
+Code
+-
+![WhatsApp Image 2024-09-02 at 23 01 43_2547976b](https://github.com/user-attachments/assets/ece06c52-ad3e-4211-a653-f5eda93a0805)
+<br/>
+in the serial monitor look for the variable value changes, acc to the code, if the values scales down below 150, then the display should redirect a different text, that's achieved in the simulation, as well <br/>
+
+Access it here: https://www.tinkercad.com/things/3wKFPwO7Ksr-single-flex-sensor-recognition-system-prototypedesign
+
+=>same thing we have tried replicating for 5 sensors, coz we're making it for a hand glove, that senses the 5 fingers ryt, and to check if it achieves multiple request driven access at the same time
 -
 
-
-
-![navigation view 1](https://github.com/user-attachments/assets/247e25a2-e5a6-4736-882a-5a49c5a0063b)
-
+Access it here: https://www.tinkercad.com/things/9aipFft7qlW-copy-of-flex-and-lcd
+<br/>
 American Sign Language Code architecture testing:- (checking the media pipe algorithm, Computer vision, NLP Suggestions, Text output, Text output to speech through various TTS models, like gTTS) <br/>
 -
 //in plans to achieve a similar output with ISL Software, cross checking all the dependencies..<br/>
@@ -82,8 +94,6 @@ Future aspects (explaining it on a layman's view, keeping it completely non tech
 => Achieving Corpus in sign language, checking grammar, punctuation, stop word removal and removing ambiguities (syntactic parsing), in NLPs...(Usually happens after the data preprocessing step, in Model training) <br/>
 => Acheiving TTS model training epochs from scratch, instead of calling API calls only to get the robotic AI voices from Chatgpt, OpenAI, and other software sources like seamless and lovo ai, though the latter helping us to leverage voice integration modules of humanised vocal versions..<br/>
 <br/>
-<br/>
-
 //smtg to look out👀 (Developer resources, that i found useful) <br/>
 https://lovo.ai/ <br/>
 https://genny.lovo.ai/signup  <br/>
