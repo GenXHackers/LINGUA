@@ -28,14 +28,14 @@ Proposed solution for round 1 internal hackathon (SIH2024)
 -
 A smart glove, that's capable of sensing the motion made by the fingers, through the flex sensor / gyroscopic(axis) sensor
 
-Team Members:-
+Team Members (GenX H4CK3RS!):-
 -
-Jayadithya G 
-Pranov Shanker U
-Adhithya Srivatsan
-Harini A
-Rohit K Manoj
-Ankith A
+Jayadithya G  <br/>
+Pranov Shanker U <br/>
+Adhithya Srivatsan <br/>
+Harini A <br/>
+Rohit K Manoj <br/>
+Ankith A <br/>
 
 
 Data workflow
@@ -86,7 +86,8 @@ Access it here: https://www.tinkercad.com/things/3wKFPwO7Ksr-single-flex-sensor-
 
 Access it here: https://www.tinkercad.com/things/9aipFft7qlW-copy-of-flex-and-lcd
 <br/>
-
+<br/>
+<br/>
 American Sign Language Code architecture testing:- (checking the media pipe algorithm, Computer vision, NLP Suggestions, Text output, Text output to speech through various TTS models, like gTTS) <br/>
 -
 //in plans to achieve a similar output with ISL Software, cross checking all the dependencies..<br/>
