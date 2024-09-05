@@ -27,7 +27,16 @@ The application is capable of recognizing and interpreting a comprehensive libra
 Proposed solution for round 1 internal hackathon (SIH2024)
 -
 A smart glove, that's capable of sensing the motion made by the fingers, through the flex sensor / gyroscopic(axis) sensor
+
+Team Members:-
 -
+Jayadithya G 
+Pranov Shanker U
+Adhithya Srivatsan
+Harini A
+Rohit K Manoj
+Ankith A
+
 
 Data workflow
 -
