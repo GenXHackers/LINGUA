@@ -1,3 +1,5 @@
+//Run on Arduino IDE
+//necessary libraries to install-> LiquidCrystalI2C
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x3F,16,2);
