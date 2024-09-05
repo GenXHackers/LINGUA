@@ -1,4 +1,4 @@
-# Lingua 
+# LINGUA
 ---
 ![Homepage view 1](https://github.com/user-attachments/assets/6bda9ca0-0276-436b-9940-7490677a062a)
 
@@ -47,6 +47,8 @@ Hardware techstack:-
 
 ISL Replica testing (Video) //ML model
 -
+//we used the asl architecture, fwd to training the model from scratch, giving out images, collecting the dataset ourselves and training it, after collecting 200 samples for each character
+-
 
 //work in progress
 ......... //put isl working video demo here, later
@@ -78,19 +80,26 @@ Future aspects (explaining it on a layman's view, keeping it completely non tech
 => Smart wearable gloves that facilitates wireless connection via a bluetooth external device (in that case go for raspberry pi, instead of arduino) <br/>
 => Smart wearable glasses, that displays text as running words coming from both the text generation, as well as the NLP suggestion <br/>
 => Achieving Corpus in sign language, checking grammar, punctuation, stop word removal and removing ambiguities (syntactic parsing), in NLPs...(Usually happens after the data preprocessing step, in Model training) <br/>
-=> Acheiving TTS model training epochs from scratch, instead of calling API calls only to get the robotic AI voices from Chatgpt, OpenAI, and other software sources like seamless and lovo ai, helping us to leverage voice integration modules of humanised vocal versions..<br/>
-//
-smtg to look out👀 (Developer resources, that i found useful) <br/>
+=> Acheiving TTS model training epochs from scratch, instead of calling API calls only to get the robotic AI voices from Chatgpt, OpenAI, and other software sources like seamless and lovo ai, though the latter helping us to leverage voice integration modules of humanised vocal versions..<br/>
+<br/>
+<br/>
+
+//smtg to look out👀 (Developer resources, that i found useful) <br/>
 https://lovo.ai/ <br/>
 https://genny.lovo.ai/signup  <br/>
 genny api setup <br/>
 <br/>
 ![WhatsApp Image 2024-09-04 at 22 21 53_efd85b5b](https://github.com/user-attachments/assets/544b895e-7c69-4dde-899f-60e05679a0ba) <br/>
 
-A sample tutorial could be accessed here:-
+A sample tutorial could be accessed here (we took some references):-
 -
 
 https://lovo.ai/tutorials/using-genny-api/getting-started-with-genny-api
+
+at 2:00 of this video: https://www.youtube.com/watch?v=jQ3ut_pwQFI , you can see that you can mint your own voice using nfts and upload it to the platform, thereby humanizing the ai voice through voice cloning, and there are different voices of various people that's publicly accessible with different voices for different emotions, such as happy, sad, etc..,
+
+
+
 
 
 
