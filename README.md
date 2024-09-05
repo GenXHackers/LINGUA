@@ -4,15 +4,21 @@
 
 Indian Sign Language to Text/Speech translation
 -
-To create a solution that translates Indian Sign Language (ISL) into text and speech in real-time, facilitating communication for the deaf and hard-of-hearing community with the hearing world. The application is capable of recognizing and interpreting a comprehensive library of ISL signs and gestures, and then provide accurate text and speech output in multiple Indian languages.
+P.S : To create a solution that translates Indian Sign Language (ISL) into text and speech in real-time, facilitating communication for the deaf and hard-of-hearing community with the hearing world. The application is capable of recognizing and interpreting a comprehensive library of ISL signs and gestures, and then provide accurate text and speech output in multiple Indian languages.
 
 
- *L: **Live* – Real-time translation of ISL into text and speech. 
- *I: **Interpretation* – Accurate recognition and interpretation of Indian Sign Language.
- *N: **Narration* – Providing speech output in multiple Indian languages.
- *G: **Gesture* – Recognizing and processing hand gestures and signs.
- *U: **Understanding* – Facilitating communication and understanding between the deaf/hard-of-hearing and the hearing world.
- *A: **Accessibility* – Making communication more accessible for the deaf and hard-of-hearing community.
+ L: Live – Real-time translation of ISL into text and speech. <br/>
+<br/>
+ I: Interpretation – Accurate recognition and interpretation of Indian Sign Language. <br/>
+<br/>
+ N: Narration – Providing speech output in multiple Indian languages. <br/>
+<br/>
+ G: Gesture – Recognizing and processing hand gestures and signs. <br/>
+<br/>
+ U: Understanding – Facilitating communication and understanding between the deaf/hard-of-hearing and the hearing world. <br/>
+<br/>
+ A: Accessibility – Making communication more accessible for the deaf and hard-of-hearing community. <br/>
+<br/>
 
 
 ![navigation view 1](https://github.com/user-attachments/assets/247e25a2-e5a6-4736-882a-5a49c5a0063b)
