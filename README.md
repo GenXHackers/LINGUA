@@ -49,12 +49,12 @@ ISL Replica testing (Video) //ML model
 -
 
 //work in progress
-......... //put asl working video demo here
+......... //put isl working video demo here, later
 
 Hardware implementation (physical video) 
 -
 //work in progress
-.........
+.........//put smart glove video here later
 
 
 
