@@ -104,7 +104,7 @@ Future aspects (explaining it on a layman's view, keeping it completely non tech
 => Smart wearable gloves that facilitates wireless connection via a bluetooth external device (in that case go for raspberry pi, instead of arduino) <br/>
 => Smart wearable glasses, that displays text as running words coming from both the text generation, as well as the NLP suggestion <br/>
 => Achieving Corpus in sign language, checking grammar, punctuation, stop word removal and removing ambiguities (syntactic parsing), in NLPs...(Usually happens after the data preprocessing step, in Model training) <br/>
-=> Acheiving TTS model training epochs from scratch, instead of calling API calls only to get the robotic AI voices from Chatgpt, OpenAI, and other software sources like seamless and lovo ai, though the latter helping us to leverage voice integration modules of humanised vocal versions..<br/>
+=> Acheiving TTS model training epochs from scratch, instead of calling API calls from a pre-trained model, only to get the robotic AI voices from Chatgpt, OpenAI, and other software sources like seamless and lovo ai, though the latter helping us to leverage voice integration modules of humanised vocal versions..<br/>
 <br/>
 //smtg to look out👀 (Developer resources, that i found useful) <br/>
 https://lovo.ai/ <br/>
