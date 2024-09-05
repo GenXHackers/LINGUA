@@ -1,5 +1,6 @@
 # Lingua
 ---
+![Homepage view 1](https://github.com/user-attachments/assets/6bda9ca0-0276-436b-9940-7490677a062a)
 
 Indian Sign Language to Text/Speech translation
 -
