@@ -56,6 +56,8 @@ Hardware implementation (physical video)
 //work in progress
 .........//put smart glove video here later
 
+Tinkercad Virtual Simulation could be accessed here, developed as part of the ideathon for prototyping:-
+-
 
 
 
