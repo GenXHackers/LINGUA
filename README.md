@@ -77,6 +77,7 @@ Access it here: https://www.tinkercad.com/things/3wKFPwO7Ksr-single-flex-sensor-
 
 Access it here: https://www.tinkercad.com/things/9aipFft7qlW-copy-of-flex-and-lcd
 <br/>
+
 American Sign Language Code architecture testing:- (checking the media pipe algorithm, Computer vision, NLP Suggestions, Text output, Text output to speech through various TTS models, like gTTS) <br/>
 -
 //in plans to achieve a similar output with ISL Software, cross checking all the dependencies..<br/>
