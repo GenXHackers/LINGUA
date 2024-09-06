@@ -50,8 +50,9 @@ Ankith A <br/>
 
 ## Software Techstack
 
+<p align="center">
 ![WhatsApp Image 2024-09-05 at 19 17 03_cf17bf15](https://github.com/user-attachments/assets/3f7024d3-f32a-4654-a0f6-b70ff0ed05a5)
-
+</p>
 
 ## ISL Replica Testing (Video) - ML model
 
