@@ -24,7 +24,7 @@ A smart glove, that's capable of sensing the motion made by the fingers, through
 ## Team Members (GenX H4CK3RS!)
 
 Jayadithya G  <br/>
-Pranov Shanker U <br/>
+U Pranov Shanker <br/>
 Adhithya Srivatsan <br/>
 Harini A <br/>
 Rohit K Manoj <br/>
